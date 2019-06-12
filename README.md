@@ -17,7 +17,7 @@ Add the dependency in your moudle build.gradle:
 	        implementation 'com.github.markzl:ThumbUpView:Tag'
 	}
 ```
-### step3:
+## step3:
 Use `ThumbUpView` in your layout:
 ```
     <com.markzl.android.thumbupview.ThumbUpView
