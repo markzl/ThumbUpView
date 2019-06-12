@@ -1,0 +1,14 @@
+<resources>
+
+    <declare-styleable name="ThumbUpView">
+        <attr name="like_count_text_size" format="dimension" />
+        <attr name="like_count_text_color" format="color" />
+        <attr name="like_count" format="integer" />
+        <attr name="like_view_middle_padding" format="dimension" />
+        <attr name="like_view_src_selected" format="reference" />
+        <attr name="like_view_src_unSelected" format="reference" />
+        <attr name="like_view_src_shining" format="reference" />
+        <attr name="like_view_shining_visible" format="boolean" />
+    </declare-styleable>
+
+</resources>
