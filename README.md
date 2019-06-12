@@ -14,7 +14,7 @@ Add it in your root build.gradle at the end of repositories:
 Add the dependency in your moudle build.gradle:
 ```
 	dependencies {
-	        implementation 'com.github.markzl:ThumbUpView:Tag'
+	        implementation 'com.github.markzl:ThumbUpView:0.0.2'
 	}
 ```
 ## step3:
